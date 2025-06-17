@@ -12,7 +12,7 @@ from utils import validate_inputs, format_results, create_results_dataframe
 
 # Page configuration
 st.set_page_config(
-    page_title="A/B Test Statistical Significance Analyzer",
+    page_title="A/B Test Tool",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
