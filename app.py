@@ -23,7 +23,7 @@ if 'results' not in st.session_state:
     st.session_state.results = None
 
 def main():
-    st.title("🚀 Amazing A/B Test Tool")
+    st.title("🚀 Rocket A/B Test Tool")
     st.markdown("Analyze your A/B test results to determine statistical significance and get actionable insights.")
     
     # Sidebar for configuration
